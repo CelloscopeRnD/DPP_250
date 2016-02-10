@@ -1,0 +1,10 @@
+libs
+bin
+.settings
+gen
+obj
+.classpath
+project.properties
+*.project
+*.apk
+*.classpath
