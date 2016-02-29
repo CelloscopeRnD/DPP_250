@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="E:\AndroidProjects\DPP_250\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ab1546a181a49546d3b507235dbb04f23df778eb">
+        <dex dex="E:\AndroidProjects\DPP_250\app\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_43faf2bda7f405eebd311a06cb06da84088063db\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidProjects\DPP_250\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_slice.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="93b37c84e52a32ad975d3934e667bd09e79d6762">
+        <dex dex="E:\AndroidProjects\DPP_250\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_slice_8718efd6d5ad81dedfeff57e20e476271551e97b\classes.dex" />
+    </item>
+
+</items>
